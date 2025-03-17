@@ -10,15 +10,15 @@ Extra: terminados estes exercícios, modele e implemente (se ainda não concluiu
 
 Os exercícios:
 
-1. Modele e implemente um método recursivo que calcule o fatorial de um número n passado como parâmetro.
+1. Modele e implemente um método recursivo que calcule o fatorial de um número n passado como parâmetro. DONE
 
-1. Modele e implemente um método recursivo que calcule o somatório de um número n (passado como parâmetro) até 0.
+1. Modele e implemente um método recursivo que calcule o somatório de um número n (passado como parâmetro) até 0. DONE
 
-1. Modele e implemente um método recursivo que calcule o n-ésimo número da sequência de fibonacci.
+1. Modele e implemente um método recursivo que calcule o n-ésimo número da sequência de fibonacci. DONE 
 
-1. Modele e implemente um método recursivo que calcule o somatório dos números inteiros entre os números k e j, passados como parâmetro.
+1. Modele e implemente um método recursivo que calcule o somatório dos números inteiros entre os números k e j, passados como parâmetro. DONE
 
-1. Modele e implemente um método recursivo que recebe um String em retorna true se este String for um palíndrome, false caso contrário.
+1. Modele e implemente um método recursivo que recebe um String em retorna true se este String for um palíndrome, false caso contrário. DONE
     ``` 
          boolean isPal(String s) 
     ```
