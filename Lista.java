@@ -80,6 +80,13 @@ public class Lista{
         return isPalidromo(palavra.substring(1, palavra.length()-1));
     }
 
+    /* 1 - Assinatura: String convBase2(int n) => string binária de n
+     * 2 - Casos de erro: n<0 erro
+     * 3 - Casos não recursivos: n==0 return 0000
+     * 4 - Casos recursivos: convBase2(n) = if n%2 != 0: return 
+     *                                      if n%2 == 0: return 
+     */
+ 
     /* 1 - Assinatura:
      * 2 - Casos de erro:
      * 3 - Casos não recursivos:
